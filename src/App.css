@@ -118,7 +118,7 @@ h6 {
   list-style-type: none;
 }
 .nav-links a {
-  display: block;
+  display: inline-block;
   text-decoration: none;
   padding: 1rem 0;
   color: var(--mainBlack);
